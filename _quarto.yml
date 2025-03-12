@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "DEREK WANG"
+  navbar:
+    left:
+      - href: index.qmd
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - darkly
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
