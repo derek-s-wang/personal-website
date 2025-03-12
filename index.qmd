@@ -1,11 +1,21 @@
 ---
-title: "Home"
+title: "Work"
 ---
 
-This is a Quarto website.
+# Hi I'm Derek!
+Check out my work below
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Apex Legends Global Series
+[![](ALGS_COVER.png)](ALGS.qmd)
 
-```{r}
-rnorm(10)
-```
+## Freelance Projects
+[![](FREELANCE_COVER.png)](FREELANCE.qmd)
+
+## UCLA Esports & Bruin Broadcasting
+![](UCLA_COVER.png)
+
+## Counter Logic Gaming
+![](CLG_COVER.png)
+
+## Philadelphia Fusion
+![](FUSION_COVER.png)

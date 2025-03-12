@@ -13,14 +13,15 @@ about:
     - icon: github
       text: Github
       href: https://github.com/derek-s-wang
-    # - icon: email
-    #   text: "{{< iconify twotone-email >}}"
-    #   href: mailto:derekshenwang@gmail.com
+    - text: Email
+      href: mailto:derekshenwang@gmail.com
 ---
 
 # Hello, I'm Derek!
 
-I'm studying Statistics and Data Science at UCLA and am pursuing a career in esports. Most recently, I worked on Apex Legends Esports tracking data analytics, producing content, covering socials, and coordinating partnerships. However, I've worked extensively in freelance video production for clients like Raidiant, Monkey Bubble, and Washington Justice (OWL) and interning for organizations like Counter Logic Gaming (LCS/FGC) and Philadelphia Fusion (OWL).
+I'm studying Statistics and Data Science at UCLA and am pursuing a career in esports. Most recently, I worked on Apex Legends Esports tracking data analytics, producing content, covering socials, and coordinating partnerships. However, I've worked extensively in freelance video production for clients like Raidiant, Monkey Bubble, and Washington Justice (OWL) and interning for organizations like Counter Logic Gaming (LCS/FGC) and Philadelphia Fusion (OWL).<br>
+
+[Download my résumé](/DerekWang_Resume_02282025.pdf)
 
 ## Education
 
@@ -32,20 +33,25 @@ Sep 2021 - June 2025
 ## Experience
 
 #### <u>Electronic Arts</u>
+Apex Legends Esports<br>
 Content and Socials Event Contractor <br>
 Jan 2025 - Feb 2025
 
+Apex Legends Esports<br>
 Partnerships Intern <br>
 Jun 2024 - Sep 2024
 
+Apex Legends Esports<br>
 Program Management Intern <br>
 Jun 2023 - Sep 2023
 
 #### <u>Madison Square Garden Sports</u>
+Counter Logic Gaming <br>
 Video Production Intern <br>
 Oct 2022 - Apr 2023
 
 #### <u>Comcast Spectacor</u>
+Philadelphia Fusion <br>
 Video Production Intern <br>
 Jun 2022 - Dec 2022
 

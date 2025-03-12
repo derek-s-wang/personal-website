@@ -1,0 +1,104 @@
+---
+title: "Freelance Work"
+---
+
+# Freelance Work
+
+## Calling All Heroes 2024-2025 Championship Trailer
+(Production, Editing, Capture, Sound, Coloring)<br>
+JAN 2025
+{{< video https://youtu.be/huwqzTln39M >}}
+
+## Awfully Good Episode 1
+(Production, Editing, Sound, Coloring)<br>
+JAN 2025
+{{< video https://youtu.be/7re349CsscM >}}
+
+## Ranked PUGs and FPL Trailer
+(Game Capture Runner)<br>
+NOV 2024
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We do have one more thing... 👀<br><br>Ranked PUGs and FPL are coming to <a href="https://twitter.com/hashtag/Overwatch2?src=hash&amp;ref_src=twsrc%5Etfw">#Overwatch2</a> on FACEIT in 2025! 🥳<br><br>Create your FACEIT account now for a chance at early access: <a href="https://t.co/Qjoj6onl8O">https://t.co/Qjoj6onl8O</a> <a href="https://t.co/VKvwP4Ek4w">pic.twitter.com/VKvwP4Ek4w</a></p>&mdash; FACEIT Overwatch (@FACEIT_OW) <a href="https://twitter.com/FACEIT_OW/status/1860641155890704713?ref_src=twsrc%5Etfw">November 24, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## OWCS Dallas Highlights
+(VOD Transcode, Video Production Consultant)<br>
+NOV 2024
+{{< video https://youtu.be/TdrrAhtnoKw >}}
+
+## Calling All Heroes 2024-2025 Major 1 Playoffs Trailer
+(Production, Editing, Capture, Sound, Coloring)<br>
+JUN 2024
+{{< video https://youtu.be/MsREYhmw2Jk >}}
+
+## OWCS Stage 2 Main Event Highlights and Best Plays
+(Production, Editing, Capture, Sound, Coloring)
+MAY 2024
+{{< video https://youtu.be/eSv5SWFHXdQ >}}
+
+## OWCS Asia LAN Highlights and Best Plays
+(Production, Editing, Capture, Sound, Coloring) <br>
+MAY 2024
+{{< video https://youtu.be/ZWCCVqTG8gM >}}
+
+## OWCS - Stage 2 Week 2 Highlights
+(Production, Editing, Capture, Sound, Coloring) <br>
+APR 2024
+{{< video https://youtu.be/r3AL4qMeOpk >}}
+
+## OWCS - Stage 2 Week 1 Highlights
+(Production, Editing, Capture, Sound, Coloring) <br>
+APR 2024
+{{< video https://youtu.be/H4pE2Ww7GLs >}}
+
+## OVERWATCH LEAGUE - LEGACY
+(Asst. Editor, CN Translation) <br>
+DEC 2023
+{{< video https://youtu.be/djbkUQJ3xqA >}}
+
+## Overwatch Contenders - Genji Skin Drops Promo
+(Production, Script, Editing, Capture, Sound, Coloring) <br>
+JUNE 2023
+{{< video https://youtu.be/4551CHvF-cg >}}
+
+## Overwatch Contenders - LhCloudy Sizzle Reel
+(Production, Editing, Capture, Sound, Coloring, Motion Graphics) <br>
+MAY 2023
+{{< video https://youtu.be/Kj4mX48jOEE >}}
+
+## Overwatch Contenders - Tracer Highlights
+(Production, Editing, Capture, Sound, Coloring, Motion Graphics) <br>
+MAY 2023
+{{< video https://youtu.be/QRroeOS8aro >}}
+
+## Overwatch Contenders - Lucio Skin Drops Promo
+(Production, Script, Editing, Capture, Sound, Coloring) <br>
+APRIL 2023
+{{< video https://youtu.be/GrMbILivMRk >}}
+
+## Washington Justice - Content Series: "Truth or Bonk" & "20 Questions"
+(Video Editing, Graphics, Sound, Coloring, Captions) <br>
+APRIL 2023
+{{< video https://youtu.be/zzFbva4KhnI?list=PLb27cY1nhwox0B_ZqN8zVxCrDP9h_8aU7 >}}
+{{< video https://youtu.be/-mOYzlxtXQY?list=PLb27cY1nhwows4JKAYH1WAxppgmmWe6TJ >}}
+
+## 7Lions / Team UK Overwatch World Cup - FunnyAstro Roster Announcement
+[HORIZONTAL AND VERTICAL] <br>
+(Production, Editing, Capture, Sound, Coloring) <br>
+APRIL 2023
+{{< video https://youtu.be/iEjf-X6KDMI >}}
+<iframe width="315" height="560" src="https://www.youtube.com/embed/sudLw5xmqnU" title="7Lions - FunnyAstro Announcement VERTICAL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## SVB-Side - Yeatle's Ranked Gauntlet
+(Editing, Sound) <br>
+MARCH 2023
+{{< video https://youtu.be/BC7kskYqPI4 >}}
+
+## ObsSojourn Observing Announcement
+(Editing, Sound, Graphics, Thumbnail) <br>
+FEBRUARY 2023
+{{< video https://youtu.be/IN79M3R-vz4 >}}
+
+## ObsSojourn Observing Reel
+(Editing, Sound, Graphics, Thumbnail) <br>
+DECEMBER 2022
+{{< video https://youtu.be/9v1D4VoNP6I >}}

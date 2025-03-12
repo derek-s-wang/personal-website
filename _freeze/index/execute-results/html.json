@@ -1,8 +1,8 @@
 {
-  "hash": "110d00d23659c40534c70aaacb20b184",
+  "hash": "3c2cf851532ad779c9b3108ccd7038f5",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Home\"\n---\n\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrnorm(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1]  0.01905167  0.36651155  0.43119531  1.80339888  0.57754632  0.50909002\n [7] -0.90805595 -0.66671051 -1.90229248 -0.38186631\n```\n\n\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Work\"\n---\n\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrnorm(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1] -1.39508628  1.91629845  0.03327018  1.21038253  0.47319151 -1.94526946\n [7]  0.68343335 -1.54063305  0.67031299 -0.85062081\n```\n\n\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
