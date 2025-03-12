@@ -14,7 +14,10 @@ format:
       - darkly
       - brand
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
+
+execute:
+  freeze: auto
 
