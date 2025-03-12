@@ -1,0 +1,80 @@
+---
+title: "Philadelphia Fusion"
+---
+
+```{=html}
+<style>
+*{
+    text-align: center;
+}
+</style>
+```
+# Philadelphia Fusion
+
+## End of Season Vlog
+(Filming, Video Editing, Color Correction, Sound Mixing) <br>
+DECEMBER 2022
+
+{{< video https://youtu.be/jIVUyOYanbM >}}
+
+## Carpe Thank You Video
+(Filming, Sound Mixing)<br>
+NOVEMBER 2022
+
+<blockquote class="twitter-tweet" data-media-max-width="560" data-theme="dark"><p lang="en" dir="ltr">Today we say thank you to <a href="https://twitter.com/carpe_ow?ref_src=twsrc%5Etfw">@carpe_ow</a> as he starts a new journey with <a href="https://twitter.com/T1?ref_src=twsrc%5Etfw">@T1</a> Valorant.<br><br>As a legendary DPS and a true leader, he has been an integral part of our team since the first season.<br><br>Thank you for all your hard work captain. We wish you the best of luck. 🫡 <a href="https://t.co/Z8gekWf5L9">pic.twitter.com/Z8gekWf5L9</a></p>&mdash; Seoul Infernal (@Infernal) <a href="https://twitter.com/Infernal/status/1591219222411198465?ref_src=twsrc%5Etfw">November 12, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## ZEST For OWL 2022 MVP Hype Video
+(In-Game Capture, Video Editing, Color Correction, Sound Mixing) <br>
+SEPTEMBER 2022
+{{< video https://youtu.be/SZmHlq2mETg >}}
+
+## Midseason Madness Recap
+(Thumbnail Design, In-Game Capture, Video Editing, Color Correction, Sound Mixing) <br>
+AUGUST 2022
+{{< video https://youtu.be/RBPAW36p4Rw >}}
+
+## ZEST | Fusion on Fire
+(Thumbnail Design, In-Game Capture, Video Editing, Color Correction, Sound Mixing) <br>
+JUNE 2022
+{{< video https://youtu.be/Y0gwbsvVE_w >}}
+
+## BELOSREA | Fusion on Fire
+(Thumbnail Design, In-Game Capture, Video Editing, Color Correction, Sound Mixing) <br>
+AUGUST 2022
+{{< video https://youtu.be/WFL6z3kBlNs >}}
+
+## FIXA | Fusion on Fire
+(Thumbnail Design, In-Game Capture, Video Editing, Color Correction, Sound Mixing) <br>
+SEPTEMBER 2022
+{{< video https://youtu.be/1fubbfr2AGM >}}
+
+## MN3 | Fusion on Fire
+(Thumbnail Design, In-Game Capture, Video Editing, Color Correction, Sound Mixing) <br>
+OCTOBER 2022
+{{< video https://youtu.be/78K6O2AWJ7E >}}
+
+## Midseason Madness Cinematics
+(In-Game Capture, Video Editing, Color Correction, Sound Mixing) <br>
+AUGUST 2022
+{{< video https://youtu.be/KcF_Fj-YTYk >}}
+{{< video https://youtu.be/O7hOyz9cW90 >}}
+
+## Social Media Live-Clipping
+(Video Editing, In-Game Capture) <br>
+JULY - OCTOBER 2022
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Don&#39;t forget to vote <a href="https://twitter.com/OW_Zest?ref_src=twsrc%5Etfw">@OW_Zest</a> for your <a href="https://twitter.com/hashtag/OWLMVP?src=hash&amp;ref_src=twsrc%5Etfw">#OWLMVP</a> 🔨<br><br>✅ <a href="https://t.co/DHKUNuNSB8">https://t.co/DHKUNuNSB8</a><br>✅ <a href="https://t.co/ZltkUi2qHx">https://t.co/ZltkUi2qHx</a> <a href="https://t.co/GUNps5WuXv">pic.twitter.com/GUNps5WuXv</a></p>&mdash; Seoul Infernal (@Infernal) <a href="https://twitter.com/Infernal/status/1578421486016434176?ref_src=twsrc%5Etfw">October 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">FIXAAAAAAAA 🥹<br>We take Oasis!<a href="https://twitter.com/hashtag/FusionFighting?src=hash&amp;ref_src=twsrc%5Etfw">#FusionFighting</a> <a href="https://t.co/Kepi4RFgCx">pic.twitter.com/Kepi4RFgCx</a></p>&mdash; Seoul Infernal (@Infernal) <a href="https://twitter.com/Infernal/status/1549964128566906881?ref_src=twsrc%5Etfw">July 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">You know what time it is.<br><br>MAP 5 TIME<a href="https://twitter.com/hashtag/FusionFighting?src=hash&amp;ref_src=twsrc%5Etfw">#FusionFighting</a> <a href="https://t.co/1ER7jEuTQJ">pic.twitter.com/1ER7jEuTQJ</a></p>&mdash; Seoul Infernal (@Infernal) <a href="https://twitter.com/Infernal/status/1550306751974494208?ref_src=twsrc%5Etfw">July 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Social Media In-Game Stills
+(In-Game Capture, Color Correction) <br>
+JUNE - NOVEMBER 2022
+
+![](fusion1.png)
+![](fusion2.png)
+![](fusion3.png)
+![](fusion4.png)
+![](fusion5.jpg)

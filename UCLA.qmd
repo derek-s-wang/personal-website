@@ -2,6 +2,12 @@
 title: "UCLA Esports & Bruin Broadcasting"
 ---
 
+<style>
+*{
+    text-align: center;
+}
+</style>
+
 # UCLA Esports & Bruin Broadcasting
 
 ## Spark Campaign Fundraiser

@@ -2,6 +2,13 @@
 title: "Work"
 ---
 
+
+<style>
+*{
+    text-align: center;
+}
+</style>
+
 # Hi I'm Derek!
 Check out my work below
 

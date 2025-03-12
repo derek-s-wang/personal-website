@@ -2,6 +2,12 @@
 title: "Freelance Work"
 ---
 
+<style>
+*{
+    text-align: center;
+}
+</style>
+
 # Freelance Work
 
 ## Calling All Heroes 2024-2025 Championship Trailer
@@ -18,7 +24,7 @@ JAN 2025
 (Game Capture Runner)<br>
 NOV 2024
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We do have one more thing... 👀<br><br>Ranked PUGs and FPL are coming to <a href="https://twitter.com/hashtag/Overwatch2?src=hash&amp;ref_src=twsrc%5Etfw">#Overwatch2</a> on FACEIT in 2025! 🥳<br><br>Create your FACEIT account now for a chance at early access: <a href="https://t.co/Qjoj6onl8O">https://t.co/Qjoj6onl8O</a> <a href="https://t.co/VKvwP4Ek4w">pic.twitter.com/VKvwP4Ek4w</a></p>&mdash; FACEIT Overwatch (@FACEIT_OW) <a href="https://twitter.com/FACEIT_OW/status/1860641155890704713?ref_src=twsrc%5Etfw">November 24, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">We do have one more thing... 👀<br><br>Ranked PUGs and FPL are coming to <a href="https://twitter.com/hashtag/Overwatch2?src=hash&amp;ref_src=twsrc%5Etfw">#Overwatch2</a> on FACEIT in 2025! 🥳<br><br>Create your FACEIT account now for a chance at early access: <a href="https://t.co/Qjoj6onl8O">https://t.co/Qjoj6onl8O</a> <a href="https://t.co/VKvwP4Ek4w">pic.twitter.com/VKvwP4Ek4w</a></p>&mdash; FACEIT Overwatch (@FACEIT_OW) <a href="https://twitter.com/FACEIT_OW/status/1860641155890704713?ref_src=twsrc%5Etfw">November 24, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## OWCS Dallas Highlights
 (VOD Transcode, Video Production Consultant)<br>

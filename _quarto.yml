@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "DEREK WANG"
+  title: "Derek Wang"
   navbar:
     left:
       - href: index.qmd
@@ -14,7 +14,7 @@ format:
       - darkly
       - brand
     css: styles.css
-    toc: false
+    toc: true
 
 editor: visual
 
