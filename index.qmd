@@ -12,10 +12,10 @@ Check out my work below
 [![](FREELANCE_COVER.png)](FREELANCE.qmd)
 
 ## UCLA Esports & Bruin Broadcasting
-![](UCLA_COVER.png)
+[![](UCLA_COVER.png)](UCLA.qmd)
 
 ## Counter Logic Gaming
-![](CLG_COVER.png)
+[![](CLG_COVER.png)](CLG.qmd)
 
 ## Philadelphia Fusion
-![](FUSION_COVER.png)
+[![](FUSION_COVER.png)](FUSION.qmd)

@@ -21,7 +21,7 @@ about:
 
 I'm studying Statistics and Data Science at UCLA and am pursuing a career in esports. Most recently, I worked on Apex Legends Esports tracking data analytics, producing content, covering socials, and coordinating partnerships. However, I've worked extensively in freelance video production for clients like Raidiant, Monkey Bubble, and Washington Justice (OWL) and interning for organizations like Counter Logic Gaming (LCS/FGC) and Philadelphia Fusion (OWL).<br>
 
-[Download my résumé](/DerekWang_Resume_02282025.pdf)
+<a href="/DerekWang_Resume_02282025.pdf" target="_blank">Download my résumé</a>
 
 ## Education
 
