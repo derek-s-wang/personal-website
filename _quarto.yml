@@ -1,5 +1,7 @@
 project:
   type: website
+  resources: 
+        - MEDIA/ABOUT/DerekWang_Resume_02282025.pdf
 
 website:
   title: "Derek Wang"

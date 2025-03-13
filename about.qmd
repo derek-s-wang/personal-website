@@ -2,7 +2,7 @@
 title: "About"
 about:
   template: broadside
-  image: DEREK_WANG_PORTFOLIO_PFP.jpg
+  image: MEDIA/ABOUT/DEREK_WANG_PORTFOLIO_PFP.jpg
   links:
     - icon: linkedin
       text: LinkedIn
@@ -22,7 +22,7 @@ about:
       target: _blank
     - icon: file-text
       text: Resume
-      href: "/DerekWang_Resume_02282025.pdf"
+      href: MEDIA/ABOUT/DerekWang_Resume_02282025.pdf
       target: _blank
 ---
 
